@@ -1,2 +1,13 @@
 fileFormatVersion: 2
 guid: 6572835b478157b4db3706b7e1baf49c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpSfx: {fileID: 8300000, guid: eb79820f337cb1644a529c221a49f929, type: 3}
+  - footstepSfx: {fileID: 8300000, guid: 22eac992124962a4fa8d78998db6c5c2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
